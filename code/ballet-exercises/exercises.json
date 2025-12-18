@@ -1,0 +1,1446 @@
+{
+	"data": [
+		{
+			"id": "1",
+			"title": "Allongé",
+			"category": "Arms",
+			"difficulty": 1,
+
+			"explanation": {
+				"description": "The Allongé arm position places one arm forward and the other side/back, framing the torso while the dancer balances in arabesque. It emphasizes coordination, line, and posture.",
+				"focus": "Keep shoulders down, chest lifted, and arm line continuous."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Stand in Fifth",
+					"description": "Feet turned out, arms relaxed.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Lift Front Arm",
+					"description": "Extend the front arm forward, fingers soft.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Lift Back Arm",
+					"description": "Extend the other arm side/back to create the line.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Align Torso",
+					"description": "Keep chest lifted and core engaged.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Hold Gracefully",
+					"description": "Maintain line without tensing neck or shoulders.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t shrug or lift shoulders.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t bend elbows.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t twist torso.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Keep wrists soft and fingers elegant.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Practice slowly in front of mirror.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "2",
+			"title": "3rd Arabesque",
+			"category": "Arms",
+			"difficulty": 2,
+
+			"explanation": {
+				"description": "The 3rd Arabesque arms are elongated and stretched outward, creating a soft, flowing line. This exercise focuses on grace, smooth extension, and maintaining a lifted posture while moving or holding position. Perfect for beginners to develop line awareness and shoulder mobility.",
+				"focus": "Lengthen through fingertips, keep shoulders relaxed, and maintain elegant wrist placement."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Stand in First or Fifth",
+					"description": "Feet turned out, arms relaxed.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Lift Arms Slowly",
+					"description": "Stretch arms forward and up, keeping elbows soft.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Extend Fully",
+					"description": "Imagine fingertips reaching as far as possible while keeping shoulders down.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Lower Smoothly",
+					"description": "Return arms to preparation or down gracefully.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t shrug shoulders.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t bend wrists awkwardly.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Practice in front of a mirror for straight lines.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Visualize length from fingertips to toes.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "3",
+			"title": "Attitude Devant",
+			"category": "Adagio",
+			"difficulty": 3,
+
+			"explanation": {
+				"description": "A balance where the working leg is lifted bent in front, creating a soft curve. Strengthens the back, legs, and core while improving line.",
+				"focus": "Lifted chest, engaged core, smooth arm line."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Start in Fifth or Fourth",
+					"description": "Arms in preparation.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Lift Working Leg",
+					"description": "Bend knee to form the attitude shape. Turn knee out.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Hold and Align",
+					"description": "Keep hips square and chest lifted.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Return with Control",
+					"description": "Lower leg gracefully.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t let hips twist.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t lean forward.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Use core to maintain balance.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Keep lifted leg active through hip and glute.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "4",
+			"title": "Attitude Turn",
+			"category": "Turns",
+			"difficulty": 4,
+
+			"explanation": {
+				"description": "An attitude turn is a controlled spin performed with one leg lifted in attitude (bent at about 90°) either front or back. The dancer maintains strong turnout, a lifted torso, and clear spotting to execute a smooth, centered rotation.",
+				"focus": "Engage core, stabilize supporting leg, keep the lifted leg active and placed correctly."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Preparation in Fourth",
+					"description": "Stand in a deep fourth position with arms in a rounded preparation.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Push into Relevé",
+					"description": "Rise onto the ball of the supporting foot while engaging the core.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Bring Working Leg to Attitude with arms",
+					"description": "Lift the working leg into attitude devant, maintaining turnout. Bring arms to first or fifth while turning.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Spot the Turn and complete rotation",
+					"description": "Use a spot to maintain balance and direction. Keep the pelvis stable as you turn over the supporting leg.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Finish Cleanly",
+					"description": "Lower the working leg and land softly in a controlled pose.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t let the working knee drop — keep it lifted and turned out.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t arch the back too much — maintain core support.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t crunch the arms — keep them rounded and lifted.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t look down — spotting is everything.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Imagine lifting out of your waist to stay centered.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Practice static balances in attitude before turning.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Keep the supporting ankle strong and stable.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "5",
+			"title": "Cabriole",
+			"category": "Jumps",
+			"difficulty": 5,
+
+			"explanation": {
+				"description": "Cabriole is an advanced jump where one leg lifts high and the other leg beats upward to meet it, causing the top leg to “rebound” higher. The jump can be performed forward, backward, or sideways, depending on the choreography.",
+				"focus": "Strong bottom leg, sharp beat, and controlled landing."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Preparation in Fifth",
+					"description": "Arms in a clean position, weight evenly placed.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Brush the Top Leg",
+					"description": "The working leg sweeps upward to set the height.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Takeoff",
+					"description": "Push off the supporting leg while engaging the core.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Beat in the Air",
+					"description": "The bottom leg quickly strikes upward to meet the top leg.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Rebound Lift",
+					"description": "Allow the top leg to rise slightly higher from the impact.",
+					"imageUrl": ""
+				},
+				{
+					"step": 6,
+					"title": "Land in Control",
+					"description": "Finish in a plié.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t bend the knees during the beat.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Practice beats at the barre before attempting in the middle.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Think “up and strike,” not just “up.”",
+					"imageUrl": ""
+				},
+				{
+					"text": "Take advantage of the momentum to quickly beat.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "6",
+			"title": "Développé",
+			"category": "Adagio",
+			"difficulty": 3,
+
+			"explanation": {
+				"description": "Développé is the slow unfolding of the working leg into extension. It develops strength, flexibility, and control in the hip and core.",
+				"focus": "Smooth leg extension, lifted posture, controlled descent."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Stand in Fifth",
+					"description": "Arms in preparation.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Lift Leg to Passé",
+					"description": "Bring the working leg to the knee.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Slowly Extend",
+					"description": "Straighten the leg to devant, à la seconde, or derrière.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Hold and Align",
+					"description": "Engage core, lift chest, and maintain turnout.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Return with Control",
+					"description": "Bring the leg back to Passé or floor.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t swing the leg.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t collapse the torso.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Focus on long lines.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Use barre for balance initially.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "7",
+			"title": "Échappé to 2nd Position",
+			"category": "Pointes",
+			"difficulty": 3,
+
+			"explanation": {
+				"description": "Échappé on pointe is a controlled jump or slide where the feet open from fifth to second position. It develops balance, coordination, and control in relevé or full pointe.",
+				"focus": "Maintain turnout, keep ankles lifted, land softly."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Start in Fifth Position",
+					"description": "Arms in preparation.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Engage Core and Ankles",
+					"description": "Prepare for upward or lateral movement.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Slide or Jump Feet Apart",
+					"description": "Move from fifth to second in a clean, controlled motion.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Maintain Alignment",
+					"description": "Knees lifted, torso upright, arms steady.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Return to Fifth",
+					"description": "Close feet cleanly without wobble.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t let feet turn in.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t collapse the arches. Keep onto your box.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t lean torso forward.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Strengthen relevé and demi-pointe exercises first.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Focus on soft landing and balance.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Practice slow, then increase tempo.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "8",
+			"title": "Entrelacé",
+			"category": "Jumps",
+			"difficulty": 4,
+
+			"explanation": {
+				"description": "Entrélacé is a turning jump where the dancer switches legs in the air while rotating, creating a beautiful scissoring shape. The motion resembles a “throwing” of the legs through a split line while the torso rotates, finishing in an arabesque or attitude. This jump demands coordination, timing, turnout, and strong elevation.",
+				"focus": "Lift from the core, fully extend through both legs, and complete the rotation before landing."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Preparation in Croisé",
+					"description": "Start in croisé with one foot in front, arms in third or fifth. Engage the core and find your spot.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Demi-Plié for Power",
+					"description": "Bend supporting knee of the leg that is in front. Bring other leg to tendu en l'air all the while maintaining turnout.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Push Off & Begin Rotation",
+					"description": "Spring upward from the floor, allowing the torso to start its turn. Arms gather softly.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Leg Switch in the Air",
+					"description": "Extend both legs through a split line as the front leg throws backward and the back leg moves forward.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Land in Arabesque or Attitude",
+					"description": "Absorb the landing through the foot and knee, finishing with control and turnout.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t let the legs bend in the air — maintain long, clean lines.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t look down during the rotation — this breaks spotting and kills height.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Spot early to control the rotation before the leg switch.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Practice switches at the barre to strengthen coordination and timing.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Think of lifting up before switching — height gives you time.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "9",
+			"title": "Flic Flac",
+			"category": "Turns",
+			"difficulty": 3,
+
+			"explanation": {
+				"description": "A flic flac is a turning step where the dancer transfers weight side to side while rotating, often used in petit allegro or linking movements. The motion is smooth, figure-8 like, and travels slightly across the floor.",
+				"focus": "Coordination, light footwork, and smooth transitions."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Start in Fifth Position",
+					"description": "Arms loosely in preparation.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Brush the Foot to Side",
+					"description": "Extend one foot à la seconde lightly.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Slide the foot to coup de pied",
+					"description": "Slide extended foot to coup de pied derrière.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Push to relevé",
+					"description": "Push from the ball of the foot behind to relevé.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Complete the Turn",
+					"description": "Use the momentum of the pushing to relevé to turn while bringing the same foot to coup de pied front.",
+					"imageUrl": ""
+				},
+				{
+					"step": 6,
+					"title": "Finish in Fifth or an Open Pose",
+					"description": "Control the placement and breath into the movement.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t stomp — this step must be light.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t make breaks between the two steps — keep it fluid.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t throw the torso — it’s guided, not whipped.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Practice slowly first, then add speed.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Keep core lifted to avoid wobbling.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "10",
+			"title": "Grand Jeté",
+			"category": "Jumps",
+			"difficulty": 3,
+
+			"explanation": {
+				"description": "Grand Jeté is a powerful split leap traveling across the floor. The dancer brushes through a grand battement, propelling themselves into the air with both legs extended in a full split. The goal is to create a long, suspended moment where the legs reach maximum extension at the height of the jump.",
+				"focus": "Deep plié, strong brush, lifted core, and a controlled, cushioned landing."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Chassé or Step Through",
+					"description": "Travel forward, quick steps to build momentum.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Large Demi-Plié",
+					"description": "Sink into the supporting leg to gather power for the takeoff.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Grand Battement Brush",
+					"description": "The front leg brushes strongly into the air, initiating the leap. Push explosively off the back leg, reaching your maximum height.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Split Line in the Air",
+					"description": "Extend both legs fully and stretch through the toes.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Controlled Descent",
+					"description": "Begin lowering with a tall torso and engaged core.",
+					"imageUrl": ""
+				},
+				{
+					"step": 6,
+					"title": "Soft Landing",
+					"description": "Land through the toe–ball–heel pathway, finishing in plié.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t kick your foot out when bringing your leg forward.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t let the torso pitch forward — stay lifted.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t land stiffly — always absorb the jump.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Think “up before out” to achieve height.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Stretch hamstrings and hip flexors to improve split height.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "11",
+			"title": "Grand Rond de Jambe",
+			"category": "Adagio",
+			"difficulty": 4,
+
+			"explanation": {
+				"description": "A circular movement of the working leg, either on the ground or in the air. Helps with hip flexibility, control, and fluidity.",
+				"focus": "SSmooth arc, stable pelvis, and turnout."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Start in Fifth",
+					"description": "Arms in preparation.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Lift Working Leg",
+					"description": "Keep straight and pointed.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Draw Large Circle",
+					"description": "Move leg around in a controlled, continuous circle.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Maintain Upper Body",
+					"description": "Keep torso lifted and shoulders relaxed.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Finish circle movement",
+					"description": "Complete circle with control.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t let pelvis tilt.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t twist torso.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Focus on circular motion from the hip.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Use slow repetitions for control.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "12",
+			"title": "Italian Fouetté",
+			"category": "Turns",
+			"difficulty": 5,
+
+			"explanation": {
+				"description": "Italian Fouettés are advanced turns combining développé, extension, and a fast whipping motion. The dancer repeatedly moves the working leg from devant to á la seconde while turning, requiring extreme control and power.",
+				"focus": "Strong core, clean leg extensions, sharp transitions."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Preparation in Fourth",
+					"description": "Arms open, chest lifted, weight forward.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Developpé to Front",
+					"description": "Extend the working leg into a high développé devant.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Slide to First Position",
+					"description": "Bring the leg down to be in first position in plié.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Whip to Second",
+					"description": "Open the leg sharply to á la seconde while initiating the turn.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Bring leg to Attitude derrière",
+					"description": "Continuing the turn bring the lifted leg to Attitude derrière.",
+					"imageUrl": ""
+				},
+				{
+					"step": 6,
+					"title": "Return Leg to Front",
+					"description": "Bring the working leg back into développé devant.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t sacrifice turnout for speed.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t lose relevé height during transitions.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Train slow développés to improve strength.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Think of the working leg carving a clean pathway.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Use core compression to control the whip.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Practice single repetitions before stringing multiples.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "13",
+			"title": "Pas de Bourré Suivi on Pointe",
+			"category": "Pointes",
+			"difficulty": 3,
+			"explanation": {
+				"description": "Pas de Bourré Suivi on Pointe is a traveling step where the dancer performs a series of quick, small steps behind, side, and then forward, all on pointe. It requires precision, balance, and smooth weight transfer while maintaining alignment and turnout.",
+				"focus": "Control of the supporting leg, light and precise footwork, smooth transitions, and maintaining pointe height throughout."
+			},
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Preparation Position",
+					"description": "Start in fifth position, arms in first or fifth, core engaged.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Preparation to get on Pointe",
+					"description": "Bring the back foot to coup de pied before going on pointe.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "On Pointe",
+					"description": "Step up on pointe in fifth position.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Side Step with Back Foot",
+					"description": "Step the back foot behind the supporting foot, keeping legs tight and weight centered.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Side Step with Front Foot",
+					"description": "Bring the trailing foot forward, closing to fifth position on pointe and preparing for the next step.",
+					"imageUrl": ""
+				},
+				{
+					"step": 6,
+					"title": "Travel Continuously",
+					"description": "Repeat the back-side-forward pattern as needed across the floor, keeping arms rounded and torso lifted.",
+					"imageUrl": ""
+				}
+			],
+			"tutorialVideo": "",
+			"donts": [
+				{
+					"text": "Don’t let the heels separate — maintain tight fifth position.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t bend the supporting knee — keep it straight and strong.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t lean the torso forward or sideways — keep chest lifted.",
+					"imageUrl": ""
+				}
+			],
+			"tips": [
+				{
+					"text": "Think of small, precise steps rather than large movements.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Practice slowly at first, then increase speed once stable.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "14",
+			"title": "Penché",
+			"category": "Adagio",
+			"difficulty": 4,
+
+			"explanation": {
+				"description": "A penché is a controlled movement where the dancer leans the torso forward and downward while keeping one leg lifted high behind, creating a long, continuous line from fingertips to toes. It’s a tilted arabesque that tests balance, strength, and flexibility.",
+				"focus": "Smooth control, square hips, and steady balance as the leg rises."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Preparation (Échauffement & Placement)",
+					"description": "Stand in first or fifth position with arms in preparatory port de bras. Keep hips square, core engaged, and weight even. Spot a fixed point.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Engage",
+					"description": "Activate turnout and extend the working leg to tendu derrière. Bring arms to allongé.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Extend the Working Leg",
+					"description": "Take the leg behind you into an arabesque line. Lift from the hip and keep toes pointed.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Reach and Lengthen",
+					"description": "Create a continuous line from fingertips to toes. Keep hips square.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Balance & Hold",
+					"description": "Balance on the supporting leg and hold the penché for several counts. Keep shoulders relaxed.",
+					"imageUrl": ""
+				},
+				{
+					"step": 6,
+					"title": "Return with Control",
+					"description": "Lift the torso upright and lower the working leg with control. Finish cleanly back to start position.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don't drop the torso forward while trying to lift the leg.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don't rotate or opening the hip of the supporting leg. Leg must be straight behind you.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Beginner: Keep the leg lower and use the barre for balance.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Use resistance bands or partner support to safely increase your range.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "15",
+			"title": "4th Position Arms",
+			"category": "Arms",
+			"difficulty": 2,
+
+			"explanation": {
+				"description": "One arm is raised above the head, the other extended forward in a rounded line. This position develops coordination and arm line awareness while maintaining balance.",
+				"focus": "Even lift, soft elbows, proper alignment."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Stand in First",
+					"description": "Feet turned out, arms relaxed.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Raise One Arm",
+					"description": "Bring one arm overhead.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Extend Other Arm Sideways",
+					"description": "Round the arm softly to the side, maintaining shoulder alignment.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Lower Smoothly",
+					"description": "Return to preparation.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t shrug shoulders.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t bend elbows or wrists.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Visualize a straight line from fingertip to toes.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Move arms slowly for control.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "16",
+			"title": "5th Position Arms",
+			"category": "Arms",
+			"difficulty": 1,
+
+			"explanation": {
+				"description": "Fifth position arms are rounded overhead, forming a soft oval shape. This exercise is fundamental for port de bras and helps develop upper body awareness.",
+				"focus": "Rounded shape, relaxed shoulders, lifted posture."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Stand in First Position",
+					"description": "Arms down, feet in first.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Raise Arms Overhead",
+					"description": "Form a soft, rounded oval shape with fingertips nearly touching.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Align Shoulders",
+					"description": "Keep shoulders down and elbows soft.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Lower Smoothly",
+					"description": "Return to preparation arms.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t raise shoulders.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t lock elbows.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Imagine holding a large balloon overhead.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Practice in front of a mirror to perfect symmetry.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "17",
+			"title": "Royale",
+			"category": "Jumps",
+			"difficulty": 3,
+
+			"explanation": {
+				"description": "A Royale is a small, precise jump where the dancer beats their legs together once before landing. The front leg brushes backward as the back leg moves forward, creating a clean “cross and switch” in the air.",
+				"focus": "Precision, clarity, and tight footwork."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Start in Fifth Position",
+					"description": "Arms in preparatory or first position.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Demi-Plié",
+					"description": "Keep feet fully turned out and aligned.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Takeoff",
+					"description": "Push evenly from both legs, rising straight upward. Keep the front foot in front.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Beat in the Air",
+					"description": "Brush the front leg back as the back leg moves forward. Tighten turnout.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Re-Form Fifth Position",
+					"description": "Bring legs back together quickly and precisely.",
+					"imageUrl": ""
+				},
+				{
+					"step": 6,
+					"title": "Land Softly",
+					"description": "Return to a controlled fifth with a gentle plié.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t let the knees knock or rotate inward.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t jump forward — Royale goes straight up.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Think of “zipping up” your inner thighs.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Keep arms quiet to prevent wobbling.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "18",
+			"title": "Soutenu en Tournant",
+			"category": "Pointes",
+			"difficulty": 4,
+
+			"explanation": {
+				"description": "Soutenu en tournant is a turning step on pointe where the feet draw tightly together while rotating. It emphasizes control, core strength, and clean footwork.",
+				"focus": "Maintain tight fifth, engage core, smooth rotation."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Start in Fifth Position",
+					"description": "Arms in fifth or first, weight centered.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Push Up into Relevé",
+					"description": "Engage core, rise fully on pointe.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Draw Feet Together",
+					"description": "Move feet tightly in fifth as you begin to rotate.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Turn Smoothly",
+					"description": "Keep torso lifted, eyes spotting as needed.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Finish in Clean Fifth",
+					"description": "Land softly, ready for continuation.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t let feet separate.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t collapse arches.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t forget to spot.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Focus on drawing feet together and engaging core.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Keep arms rounded and controlled.",
+					"imageUrl": ""
+				}
+			]
+		},
+
+		{
+			"id": "19",
+			"title": "Sous-sus en Avant",
+			"category": "Pointes",
+			"difficulty": 2,
+
+			"explanation": {
+				"description": "Sous-sus en avant is a tight fifth position on pointe that travels slightly forward. It develops strength in the ankles and calves, precision in alignment, and smooth forward momentum.",
+				"focus": "Keep legs tight, core engaged, and ankles strong while moving forward."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Start in Fifth Position",
+					"description": "Feet tight, heels lifted slightly, arms in first or fifth.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Engage Core and Ankles",
+					"description": "Prepare for forward travel.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Push Forward",
+					"description": "Roll slightly through the toe–ball–heel path as you move.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Maintain Tight Legs",
+					"description": "Keep feet crossed tightly in fifth on each step.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Finish Smoothly",
+					"description": "End in clean fifth, ready for the next movement.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t let the heels separate.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t collapse the arches.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t lean forward or backward.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Think of “drawing legs together” with each step.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Keep core lifted for stability.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Practice slow before increasing travel speed.",
+					"imageUrl": ""
+				}
+			]
+		},
+		{
+			"id": "20",
+			"title": "Tour Piqué",
+			"category": "Turns",
+			"difficulty": 4,
+
+			"explanation": {
+				"description": "Tour piqué is a traveling turn on a straight leg, where the dancer steps onto relevé and rotates with the working leg held in retiré or arabesque. It requires precision, strong spotting, and clean transitions.",
+				"focus": "Lift through the supporting leg, controlled spotting, and a stable working leg."
+			},
+
+			"illustrationSteps": [
+				{
+					"step": 1,
+					"title": "Preparatory Step",
+					"description": "Take a long step forward or side to build momentum.",
+					"imageUrl": ""
+				},
+				{
+					"step": 2,
+					"title": "Working Leg to Retiré or Arabesque",
+					"description": "Lift and place the working leg immediately in relevé.",
+					"imageUrl": ""
+				},
+				{
+					"step": 3,
+					"title": "Arms to First or Fifth",
+					"description": "Bring arms in while spotting the turn.",
+					"imageUrl": ""
+				},
+				{
+					"step": 4,
+					"title": "Rotate on High Relevé",
+					"description": "Turn cleanly over the supporting leg.",
+					"imageUrl": ""
+				},
+				{
+					"step": 5,
+					"title": "Finish with Control",
+					"description": "Step out gracefully or end in fifth position.",
+					"imageUrl": ""
+				}
+			],
+
+			"tutorialVideo": "",
+
+			"donts": [
+				{
+					"text": "Don’t bend the supporting leg.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t delay lifting the working leg — place it instantly.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t turn without spotting.",
+					"imageUrl": ""
+				},
+				{
+					"text": "Don’t lean back — keep posture upright.",
+					"imageUrl": ""
+				}
+			],
+
+			"tips": [
+				{
+					"text": "Think “onto the leg, not around it.”",
+					"imageUrl": ""
+				},
+				{
+					"text": "Keep relevé extremely high for cleaner turns.",
+					"imageUrl": ""
+				}
+			]
+		}
+	]
+}
