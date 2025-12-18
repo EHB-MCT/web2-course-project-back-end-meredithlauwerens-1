@@ -4,20 +4,22 @@ import mongoose from "mongoose";
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-//middleware
 app.use(express.json());
 
-//connect to MongoDB
 mongoose
   .connect(process.env.MONGODB_URI)
-  .then(() => console.log("Connected to MongoDB Atlas"))
-  .catch(err => console.error("MongoDB connection error:", err));
+  .then(() => {
+    console.log("Connected to MongoDB Atlas");
 
-//test route
+    app.listen(PORT, () => {
+      console.log(`Server running on port ${PORT}`);
+    });
+  })
+  .catch(err => {
+    console.error("MongoDB connection error:", err.message);
+  });
+
 app.get("/", (req, res) => {
-  res.json({ message: "Backend + MongoDB connected" });
+  res.json({ message: "Backend running with MongoDB" });
 });
 
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
