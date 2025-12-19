@@ -16,31 +16,25 @@
 					"step": 1,
 					"title": "Stand in Fifth",
 					"description": "Feet turned out, arms relaxed.",
-					"imageUrl": ""
+					"imageUrl": "./images/all/ill_all_1.png"
 				},
 				{
 					"step": 2,
-					"title": "Lift Front Arm",
-					"description": "Extend the front arm forward, fingers soft.",
-					"imageUrl": ""
+					"title": "Lift Arms",
+					"description": "Extend the front arm forward, fingers soft. Extend the other arm side/back to create the line.",
+					"imageUrl": "./images/all/ill_all_2.png"
 				},
 				{
 					"step": 3,
-					"title": "Lift Back Arm",
-					"description": "Extend the other arm side/back to create the line.",
-					"imageUrl": ""
+					"title": "Align Torso",
+					"description": "Keep chest lifted and core engaged.",
+					"imageUrl": "./images/all/ill_all_3.png"
 				},
 				{
 					"step": 4,
-					"title": "Align Torso",
-					"description": "Keep chest lifted and core engaged.",
-					"imageUrl": ""
-				},
-				{
-					"step": 5,
 					"title": "Hold Gracefully",
 					"description": "Maintain line without tensing neck or shoulders.",
-					"imageUrl": ""
+					"imageUrl": "./images/all/ill_all_4.png"
 				}
 			],
 
@@ -49,26 +43,26 @@
 			"donts": [
 				{
 					"text": "Don’t shrug or lift shoulders.",
-					"imageUrl": ""
+					"imageUrl": "./images/all/dont_all_1.png"
 				},
 				{
 					"text": "Don’t bend elbows.",
-					"imageUrl": ""
+					"imageUrl": "./images/all/dont_all_2.png"
 				},
 				{
 					"text": "Don’t twist torso.",
-					"imageUrl": ""
+					"imageUrl": "./images/all/dont_all_3.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Keep wrists soft and fingers elegant.",
-					"imageUrl": ""
+					"imageUrl": "./images/all/tips_all_1.png"
 				},
 				{
 					"text": "Practice slowly in front of mirror.",
-					"imageUrl": ""
+					"imageUrl": "./images/all/tips_all_2.png"
 				}
 			]
 		},
@@ -88,25 +82,25 @@
 					"step": 1,
 					"title": "Stand in First or Fifth",
 					"description": "Feet turned out, arms relaxed.",
-					"imageUrl": ""
+					"imageUrl": "./images/3ararms/ill_3ararms_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Lift Arms Slowly",
 					"description": "Stretch arms forward and up, keeping elbows soft.",
-					"imageUrl": ""
+					"imageUrl": "./images/3ararms/ill_3ararms_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Extend Fully",
 					"description": "Imagine fingertips reaching as far as possible while keeping shoulders down.",
-					"imageUrl": ""
+					"imageUrl": "./images/3ararms/ill_3ararms_3.png"
 				},
 				{
 					"step": 5,
 					"title": "Lower Smoothly",
 					"description": "Return arms to preparation or down gracefully.",
-					"imageUrl": ""
+					"imageUrl": "./images/3ararms/ill_3ararms_4.png"
 				}
 			],
 
@@ -115,22 +109,22 @@
 			"donts": [
 				{
 					"text": "Don’t shrug shoulders.",
-					"imageUrl": ""
+					"imageUrl": "./images/3ararms/dont_3ararms_1.png"
 				},
 				{
 					"text": "Don’t bend wrists awkwardly.",
-					"imageUrl": ""
+					"imageUrl": "./images/3ararms/dont_3ararms_2.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Practice in front of a mirror for straight lines.",
-					"imageUrl": ""
+					"imageUrl": "./images/3ararms/tips_3ararms_1.png"
 				},
 				{
 					"text": "Visualize length from fingertips to toes.",
-					"imageUrl": ""
+					"imageUrl": "./images/3ararms/tips_3ararms_2.png"
 				}
 			]
 		},
@@ -150,25 +144,25 @@
 					"step": 1,
 					"title": "Start in Fifth or Fourth",
 					"description": "Arms in preparation.",
-					"imageUrl": ""
+					"imageUrl": "./images/attdev/ill_attdev_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Lift Working Leg",
 					"description": "Bend knee to form the attitude shape. Turn knee out.",
-					"imageUrl": ""
+					"imageUrl": "./images/attdev/ill_attdev_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Hold and Align",
 					"description": "Keep hips square and chest lifted.",
-					"imageUrl": ""
+					"imageUrl": "./images/attdev/ill_attdev_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Return with Control",
 					"description": "Lower leg gracefully.",
-					"imageUrl": ""
+					"imageUrl": "./images/attdev/ill_attdev_4.png"
 				}
 			],
 
@@ -177,22 +171,22 @@
 			"donts": [
 				{
 					"text": "Don’t let hips twist.",
-					"imageUrl": ""
+					"imageUrl": "./images/attdev/dont_attdev_1.png"
 				},
 				{
 					"text": "Don’t lean forward.",
-					"imageUrl": ""
+					"imageUrl": "./images/attdev/dont_attdev_2.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Use core to maintain balance.",
-					"imageUrl": ""
+					"imageUrl": "./images/attdev/tips_attdev_1.png"
 				},
 				{
 					"text": "Keep lifted leg active through hip and glute.",
-					"imageUrl": ""
+					"imageUrl": "./images/attdev/tips_attdev_2.png"
 				}
 			]
 		},
@@ -212,31 +206,31 @@
 					"step": 1,
 					"title": "Preparation in Fourth",
 					"description": "Stand in a deep fourth position with arms in a rounded preparation.",
-					"imageUrl": ""
+					"imageUrl": "./images/attturn/ill_attturn_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Push into Relevé",
 					"description": "Rise onto the ball of the supporting foot while engaging the core.",
-					"imageUrl": ""
+					"imageUrl": "./images/attturn/ill_attturn_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Bring Working Leg to Attitude with arms",
 					"description": "Lift the working leg into attitude devant, maintaining turnout. Bring arms to first or fifth while turning.",
-					"imageUrl": ""
+					"imageUrl": "./images/attturn/ill_attturn_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Spot the Turn and complete rotation",
 					"description": "Use a spot to maintain balance and direction. Keep the pelvis stable as you turn over the supporting leg.",
-					"imageUrl": ""
+					"imageUrl": "./images/attturn/ill_attturn_4.png"
 				},
 				{
 					"step": 5,
 					"title": "Finish Cleanly",
 					"description": "Lower the working leg and land softly in a controlled pose.",
-					"imageUrl": ""
+					"imageUrl": "./images/attturn/ill_attturn_5.png"
 				}
 			],
 
@@ -245,34 +239,34 @@
 			"donts": [
 				{
 					"text": "Don’t let the working knee drop — keep it lifted and turned out.",
-					"imageUrl": ""
+					"imageUrl": "./images/attturn/dont_attturn_1.png"
 				},
 				{
 					"text": "Don’t arch the back too much — maintain core support.",
-					"imageUrl": ""
+					"imageUrl": "./images/attturn/dont_attturn_2.png"
 				},
 				{
 					"text": "Don’t crunch the arms — keep them rounded and lifted.",
-					"imageUrl": ""
+					"imageUrl": "./images/attturn/dont_attturn_3.png"
 				},
 				{
 					"text": "Don’t look down — spotting is everything.",
-					"imageUrl": ""
+					"imageUrl": "./images/attturn/dont_attturn_4.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Imagine lifting out of your waist to stay centered.",
-					"imageUrl": ""
+					"imageUrl": "./images/attturn/tips_attturn_1.png"
 				},
 				{
 					"text": "Practice static balances in attitude before turning.",
-					"imageUrl": ""
+					"imageUrl": "./images/attturn/tips_attturn_2.png"
 				},
 				{
 					"text": "Keep the supporting ankle strong and stable.",
-					"imageUrl": ""
+					"imageUrl": "./images/attturn/tips_attturn_3.png"
 				}
 			]
 		},
@@ -292,37 +286,37 @@
 					"step": 1,
 					"title": "Preparation in Fifth",
 					"description": "Arms in a clean position, weight evenly placed.",
-					"imageUrl": ""
+					"imageUrl": "./images/cab/ill_cab_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Brush the Top Leg",
 					"description": "The working leg sweeps upward to set the height.",
-					"imageUrl": ""
+					"imageUrl": "./images/cab/ill_cab_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Takeoff",
 					"description": "Push off the supporting leg while engaging the core.",
-					"imageUrl": ""
+					"imageUrl": "./images/cab/ill_cab_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Beat in the Air",
 					"description": "The bottom leg quickly strikes upward to meet the top leg.",
-					"imageUrl": ""
+					"imageUrl": "./images/cab/ill_cab_4.png"
 				},
 				{
 					"step": 5,
 					"title": "Rebound Lift",
 					"description": "Allow the top leg to rise slightly higher from the impact.",
-					"imageUrl": ""
+					"imageUrl": "./images/cab/ill_cab_5.png"
 				},
 				{
 					"step": 6,
 					"title": "Land in Control",
 					"description": "Finish in a plié.",
-					"imageUrl": ""
+					"imageUrl": "./images/cab/ill_cab_6.png"
 				}
 			],
 
@@ -331,22 +325,22 @@
 			"donts": [
 				{
 					"text": "Don’t bend the knees during the beat.",
-					"imageUrl": ""
+					"imageUrl": "./images/cab/dont_cab_1.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Practice beats at the barre before attempting in the middle.",
-					"imageUrl": ""
+					"imageUrl": "./images/cab/tips_cab_1.png"
 				},
 				{
 					"text": "Think “up and strike,” not just “up.”",
-					"imageUrl": ""
+					"imageUrl": "./images/cab/tips_cab_2.png"
 				},
 				{
 					"text": "Take advantage of the momentum to quickly beat.",
-					"imageUrl": ""
+					"imageUrl": "./images/cab/tips_cab_3.png"
 				}
 			]
 		},
@@ -366,31 +360,31 @@
 					"step": 1,
 					"title": "Stand in Fifth",
 					"description": "Arms in preparation.",
-					"imageUrl": ""
+					"imageUrl": "./images/dev/ill_dev_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Lift Leg to Passé",
 					"description": "Bring the working leg to the knee.",
-					"imageUrl": ""
+					"imageUrl": "./images/dev/ill_dev_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Slowly Extend",
 					"description": "Straighten the leg to devant, à la seconde, or derrière.",
-					"imageUrl": ""
+					"imageUrl": "./images/dev/ill_dev_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Hold and Align",
 					"description": "Engage core, lift chest, and maintain turnout.",
-					"imageUrl": ""
+					"imageUrl": "./images/dev/ill_dev_4.png"
 				},
 				{
 					"step": 5,
 					"title": "Return with Control",
 					"description": "Bring the leg back to Passé or floor.",
-					"imageUrl": ""
+					"imageUrl": "./images/dev/ill_dev_5.png"
 				}
 			],
 
@@ -399,22 +393,22 @@
 			"donts": [
 				{
 					"text": "Don’t swing the leg.",
-					"imageUrl": ""
+					"imageUrl": "./images/dev/dont_dev_1.png"
 				},
 				{
 					"text": "Don’t collapse the torso.",
-					"imageUrl": ""
+					"imageUrl": "./images/dev/dont_dev_2.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Focus on long lines.",
-					"imageUrl": ""
+					"imageUrl": "./images/dev/tips_dev_1.png"
 				},
 				{
 					"text": "Use barre for balance initially.",
-					"imageUrl": ""
+					"imageUrl": "./images/dev/tips_dev_2.png"
 				}
 			]
 		},
@@ -434,31 +428,31 @@
 					"step": 1,
 					"title": "Start in Fifth Position",
 					"description": "Arms in preparation.",
-					"imageUrl": ""
+					"imageUrl": "./images/ech2pos/ill_ech2poss_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Engage Core and Ankles",
 					"description": "Prepare for upward or lateral movement.",
-					"imageUrl": ""
+					"imageUrl": "./images/ech2pos/ill_ech2poss_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Slide or Jump Feet Apart",
 					"description": "Move from fifth to second in a clean, controlled motion.",
-					"imageUrl": ""
+					"imageUrl": "./images/ech2pos/ill_ech2poss_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Maintain Alignment",
 					"description": "Knees lifted, torso upright, arms steady.",
-					"imageUrl": ""
+					"imageUrl": "./images/ech2pos/ill_ech2poss_4.png"
 				},
 				{
 					"step": 5,
 					"title": "Return to Fifth",
 					"description": "Close feet cleanly without wobble.",
-					"imageUrl": ""
+					"imageUrl": "./images/ech2pos/ill_ech2poss_5.png"
 				}
 			],
 
@@ -467,30 +461,30 @@
 			"donts": [
 				{
 					"text": "Don’t let feet turn in.",
-					"imageUrl": ""
+					"imageUrl": "./images/ech2pos/dont_ech2poss_1.png"
 				},
 				{
 					"text": "Don’t collapse the arches. Keep onto your box.",
-					"imageUrl": ""
+					"imageUrl": "./images/ech2pos/dont_ech2poss_2.png"
 				},
 				{
 					"text": "Don’t lean torso forward.",
-					"imageUrl": ""
+					"imageUrl": "./images/ech2pos/dont_ech2poss_3.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Strengthen relevé and demi-pointe exercises first.",
-					"imageUrl": ""
+					"imageUrl": "./images/ech2pos/tips_ech2poss_1.png"
 				},
 				{
 					"text": "Focus on soft landing and balance.",
-					"imageUrl": ""
+					"imageUrl": "./images/ech2pos/tips_ech2poss_2.png"
 				},
 				{
 					"text": "Practice slow, then increase tempo.",
-					"imageUrl": ""
+					"imageUrl": "./images/ech2pos/tips_ech2poss_3.png"
 				}
 			]
 		},
@@ -510,31 +504,31 @@
 					"step": 1,
 					"title": "Preparation in Croisé",
 					"description": "Start in croisé with one foot in front, arms in third or fifth. Engage the core and find your spot.",
-					"imageUrl": ""
+					"imageUrl": "./images/entre/ill_entre_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Demi-Plié for Power",
 					"description": "Bend supporting knee of the leg that is in front. Bring other leg to tendu en l'air all the while maintaining turnout.",
-					"imageUrl": ""
+					"imageUrl": "./images/entre/ill_entre_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Push Off & Begin Rotation",
 					"description": "Spring upward from the floor, allowing the torso to start its turn. Arms gather softly.",
-					"imageUrl": ""
+					"imageUrl": "./images/entre/ill_entre_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Leg Switch in the Air",
 					"description": "Extend both legs through a split line as the front leg throws backward and the back leg moves forward.",
-					"imageUrl": ""
+					"imageUrl": "./images/entre/ill_entre_4.png"
 				},
 				{
 					"step": 5,
 					"title": "Land in Arabesque or Attitude",
 					"description": "Absorb the landing through the foot and knee, finishing with control and turnout.",
-					"imageUrl": ""
+					"imageUrl": "./images/entre/ill_entre_5.png"
 				}
 			],
 
@@ -543,26 +537,26 @@
 			"donts": [
 				{
 					"text": "Don’t let the legs bend in the air — maintain long, clean lines.",
-					"imageUrl": ""
+					"imageUrl": "./images/entre/dont_entre_1.png"
 				},
 				{
 					"text": "Don’t look down during the rotation — this breaks spotting and kills height.",
-					"imageUrl": ""
+					"imageUrl": "./images/entre/dont_entre_2.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Spot early to control the rotation before the leg switch.",
-					"imageUrl": ""
+					"imageUrl": "./images/entre/tips_entre_1.png"
 				},
 				{
 					"text": "Practice switches at the barre to strengthen coordination and timing.",
-					"imageUrl": ""
+					"imageUrl": "./images/entre/tips_entre_2.png"
 				},
 				{
 					"text": "Think of lifting up before switching — height gives you time.",
-					"imageUrl": ""
+					"imageUrl": "./images/entre/tips_entre_3.png"
 				}
 			]
 		},
@@ -582,37 +576,37 @@
 					"step": 1,
 					"title": "Start in Fifth Position",
 					"description": "Arms loosely in preparation.",
-					"imageUrl": ""
+					"imageUrl": "./images/flic/ill_flic_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Brush the Foot to Side",
 					"description": "Extend one foot à la seconde lightly.",
-					"imageUrl": ""
+					"imageUrl": "./images/flic/ill_flic_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Slide the foot to coup de pied",
 					"description": "Slide extended foot to coup de pied derrière.",
-					"imageUrl": ""
+					"imageUrl": "./images/flic/ill_flic_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Push to relevé",
 					"description": "Push from the ball of the foot behind to relevé.",
-					"imageUrl": ""
+					"imageUrl": "./images/flic/ill_flic_4.png"
 				},
 				{
 					"step": 5,
 					"title": "Complete the Turn",
 					"description": "Use the momentum of the pushing to relevé to turn while bringing the same foot to coup de pied front.",
-					"imageUrl": ""
+					"imageUrl": "/images/flic/ill_flic_5.png"
 				},
 				{
 					"step": 6,
 					"title": "Finish in Fifth or an Open Pose",
 					"description": "Control the placement and breath into the movement.",
-					"imageUrl": ""
+					"imageUrl": "/images/flic/ill_flic_6.png"
 				}
 			],
 
@@ -621,26 +615,26 @@
 			"donts": [
 				{
 					"text": "Don’t stomp — this step must be light.",
-					"imageUrl": ""
+					"imageUrl": "/images/flic/dont_flic_1.png"
 				},
 				{
 					"text": "Don’t make breaks between the two steps — keep it fluid.",
-					"imageUrl": ""
+					"imageUrl": "/images/flic/dont_flic_2.png"
 				},
 				{
 					"text": "Don’t throw the torso — it’s guided, not whipped.",
-					"imageUrl": ""
+					"imageUrl": "/images/flic/dont_flic_3.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Practice slowly first, then add speed.",
-					"imageUrl": ""
+					"imageUrl": "/images/flic/tips_flic_1.png"
 				},
 				{
 					"text": "Keep core lifted to avoid wobbling.",
-					"imageUrl": ""
+					"imageUrl": "/images/flic/tips_flic_2.png"
 				}
 			]
 		},
@@ -660,37 +654,37 @@
 					"step": 1,
 					"title": "Chassé or Step Through",
 					"description": "Travel forward, quick steps to build momentum.",
-					"imageUrl": ""
+					"imageUrl": "./images/grjete/ill_grjete_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Large Demi-Plié",
 					"description": "Sink into the supporting leg to gather power for the takeoff.",
-					"imageUrl": ""
+					"imageUrl": "./images/grjete/ill_grjete_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Grand Battement Brush",
 					"description": "The front leg brushes strongly into the air, initiating the leap. Push explosively off the back leg, reaching your maximum height.",
-					"imageUrl": ""
+					"imageUrl": "./images/grjete/ill_grjete_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Split Line in the Air",
 					"description": "Extend both legs fully and stretch through the toes.",
-					"imageUrl": ""
+					"imageUrl": "./images/grjete/ill_grjete_4.png"
 				},
 				{
 					"step": 5,
 					"title": "Controlled Descent",
 					"description": "Begin lowering with a tall torso and engaged core.",
-					"imageUrl": ""
+					"imageUrl": "./images/grjete/ill_grjete_5.png"
 				},
 				{
 					"step": 6,
 					"title": "Soft Landing",
 					"description": "Land through the toe–ball–heel pathway, finishing in plié.",
-					"imageUrl": ""
+					"imageUrl": "./images/grjete/ill_grjete_6.png"
 				}
 			],
 
@@ -699,26 +693,26 @@
 			"donts": [
 				{
 					"text": "Don’t kick your foot out when bringing your leg forward.",
-					"imageUrl": ""
+					"imageUrl": "./images/grjete/dont_grjete_1.png"
 				},
 				{
 					"text": "Don’t let the torso pitch forward — stay lifted.",
-					"imageUrl": ""
+					"imageUrl": "./images/grjete/dont_grjete_2.png"
 				},
 				{
 					"text": "Don’t land stiffly — always absorb the jump.",
-					"imageUrl": ""
+					"imageUrl": "./images/grjete/dont_grjete_3.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Think “up before out” to achieve height.",
-					"imageUrl": ""
+					"imageUrl": "./images/grjete/tips_grjete_1.png"
 				},
 				{
 					"text": "Stretch hamstrings and hip flexors to improve split height.",
-					"imageUrl": ""
+					"imageUrl": "./images/grjete/tips_grjete_2.png"
 				}
 			]
 		},
@@ -738,31 +732,31 @@
 					"step": 1,
 					"title": "Start in Fifth",
 					"description": "Arms in preparation.",
-					"imageUrl": ""
+					"imageUrl": "./images/grj/ill_grj_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Lift Working Leg",
 					"description": "Keep straight and pointed.",
-					"imageUrl": ""
+					"imageUrl": "./images/grj/ill_grj_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Draw Large Circle",
 					"description": "Move leg around in a controlled, continuous circle.",
-					"imageUrl": ""
+					"imageUrl": "./images/grj/ill_grj_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Maintain Upper Body",
 					"description": "Keep torso lifted and shoulders relaxed.",
-					"imageUrl": ""
+					"imageUrl": "./images/grj/ill_grj_4.png"
 				},
 				{
 					"step": 5,
 					"title": "Finish circle movement",
 					"description": "Complete circle with control.",
-					"imageUrl": ""
+					"imageUrl": "./images/grj/ill_grj_5.png"
 				}
 			],
 
@@ -771,22 +765,22 @@
 			"donts": [
 				{
 					"text": "Don’t let pelvis tilt.",
-					"imageUrl": ""
+					"imageUrl": "./images/grj/dont_grj_1.png"
 				},
 				{
 					"text": "Don’t twist torso.",
-					"imageUrl": ""
+					"imageUrl": "./images/grj/dont_grj_2.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Focus on circular motion from the hip.",
-					"imageUrl": ""
+					"imageUrl": "./images/grj/tips_grj_1.png"
 				},
 				{
 					"text": "Use slow repetitions for control.",
-					"imageUrl": ""
+					"imageUrl": "./images/grj/tips_grj_2.png"
 				}
 			]
 		},
@@ -806,37 +800,37 @@
 					"step": 1,
 					"title": "Preparation in Fourth",
 					"description": "Arms open, chest lifted, weight forward.",
-					"imageUrl": ""
+					"imageUrl": "./images/itfou/ill_itfou_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Developpé to Front",
 					"description": "Extend the working leg into a high développé devant.",
-					"imageUrl": ""
+					"imageUrl": "./images/itfou/ill_itfou_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Slide to First Position",
 					"description": "Bring the leg down to be in first position in plié.",
-					"imageUrl": ""
+					"imageUrl": "./images/itfou/ill_itfou_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Whip to Second",
 					"description": "Open the leg sharply to á la seconde while initiating the turn.",
-					"imageUrl": ""
+					"imageUrl": "./images/itfou/ill_itfou_4.png"
 				},
 				{
 					"step": 5,
 					"title": "Bring leg to Attitude derrière",
 					"description": "Continuing the turn bring the lifted leg to Attitude derrière.",
-					"imageUrl": ""
+					"imageUrl": "./images/itfou/ill_itfou_5.png"
 				},
 				{
 					"step": 6,
 					"title": "Return Leg to Front",
 					"description": "Bring the working leg back into développé devant.",
-					"imageUrl": ""
+					"imageUrl": "./images/itfou/ill_itfou_6.png"
 				}
 			],
 
@@ -845,30 +839,30 @@
 			"donts": [
 				{
 					"text": "Don’t sacrifice turnout for speed.",
-					"imageUrl": ""
+					"imageUrl": "./images/itfou/dont_itfou_1.png"
 				},
 				{
 					"text": "Don’t lose relevé height during transitions.",
-					"imageUrl": ""
+					"imageUrl": "./images/itfou/dont_itfou_2.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Train slow développés to improve strength.",
-					"imageUrl": ""
+					"imageUrl": "./images/itfou/tips_itfou_1.png"
 				},
 				{
 					"text": "Think of the working leg carving a clean pathway.",
-					"imageUrl": ""
+					"imageUrl": "./images/itfou/tips_itfou_2.png"
 				},
 				{
 					"text": "Use core compression to control the whip.",
-					"imageUrl": ""
+					"imageUrl": "./images/itfou/tips_itfou_3.png"
 				},
 				{
 					"text": "Practice single repetitions before stringing multiples.",
-					"imageUrl": ""
+					"imageUrl": "./images/itfou/tips_itfou_4.png"
 				}
 			]
 		},
@@ -886,62 +880,62 @@
 					"step": 1,
 					"title": "Preparation Position",
 					"description": "Start in fifth position, arms in first or fifth, core engaged.",
-					"imageUrl": ""
+					"imageUrl": "./images/pbsp/ill_pbsp_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Preparation to get on Pointe",
 					"description": "Bring the back foot to coup de pied before going on pointe.",
-					"imageUrl": ""
+					"imageUrl": "./images/pbsp/ill_pbsp_2.png"
 				},
 				{
 					"step": 3,
 					"title": "On Pointe",
 					"description": "Step up on pointe in fifth position.",
-					"imageUrl": ""
+					"imageUrl": "./images/pbsp/ill_pbsp_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Side Step with Back Foot",
 					"description": "Step the back foot behind the supporting foot, keeping legs tight and weight centered.",
-					"imageUrl": ""
+					"imageUrl": "./images/pbsp/ill_pbsp_4.png"
 				},
 				{
 					"step": 5,
 					"title": "Side Step with Front Foot",
 					"description": "Bring the trailing foot forward, closing to fifth position on pointe and preparing for the next step.",
-					"imageUrl": ""
+					"imageUrl": "./images/pbsp/ill_pbsp_5.png"
 				},
 				{
 					"step": 6,
 					"title": "Travel Continuously",
 					"description": "Repeat the back-side-forward pattern as needed across the floor, keeping arms rounded and torso lifted.",
-					"imageUrl": ""
+					"imageUrl": "./images/pbsp/ill_pbsp_6.png"
 				}
 			],
 			"tutorialVideo": "",
 			"donts": [
 				{
 					"text": "Don’t let the heels separate — maintain tight fifth position.",
-					"imageUrl": ""
+					"imageUrl": "./images/pbsp/dont_pbsp_1.png"
 				},
 				{
 					"text": "Don’t bend the supporting knee — keep it straight and strong.",
-					"imageUrl": ""
+					"imageUrl": "./images/pbsp/dont_pbsp_2.png"
 				},
 				{
 					"text": "Don’t lean the torso forward or sideways — keep chest lifted.",
-					"imageUrl": ""
+					"imageUrl": "./images/pbsp/dont_pbsp_3.png"
 				}
 			],
 			"tips": [
 				{
 					"text": "Think of small, precise steps rather than large movements.",
-					"imageUrl": ""
+					"imageUrl": "./images/pbsp/tips_pbsp_1.png"
 				},
 				{
 					"text": "Practice slowly at first, then increase speed once stable.",
-					"imageUrl": ""
+					"imageUrl": "./images/pbsp/tips_pbsp_2.png"
 				}
 			]
 		},
@@ -961,37 +955,31 @@
 					"step": 1,
 					"title": "Preparation (Échauffement & Placement)",
 					"description": "Stand in first or fifth position with arms in preparatory port de bras. Keep hips square, core engaged, and weight even. Spot a fixed point.",
-					"imageUrl": ""
+					"imageUrl": "./images/penche/ill_penche_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Engage",
 					"description": "Activate turnout and extend the working leg to tendu derrière. Bring arms to allongé.",
-					"imageUrl": ""
+					"imageUrl": "./images/penche/ill_penche_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Extend the Working Leg",
 					"description": "Take the leg behind you into an arabesque line. Lift from the hip and keep toes pointed.",
-					"imageUrl": ""
+					"imageUrl": "./images/penche/ill_penche_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Reach and Lengthen",
-					"description": "Create a continuous line from fingertips to toes. Keep hips square.",
-					"imageUrl": ""
+					"description": "Create a continuous line from fingertips to toes. Keep hips square. Balance and hold for several counts.",
+					"imageUrl": "./images/penche/ill_penche_4.png"
 				},
 				{
 					"step": 5,
-					"title": "Balance & Hold",
-					"description": "Balance on the supporting leg and hold the penché for several counts. Keep shoulders relaxed.",
-					"imageUrl": ""
-				},
-				{
-					"step": 6,
 					"title": "Return with Control",
 					"description": "Lift the torso upright and lower the working leg with control. Finish cleanly back to start position.",
-					"imageUrl": ""
+					"imageUrl": "./images/penche/ill_penche_5.png"
 				}
 			],
 
@@ -1000,22 +988,22 @@
 			"donts": [
 				{
 					"text": "Don't drop the torso forward while trying to lift the leg.",
-					"imageUrl": ""
+					"imageUrl": "./images/penche/dont_penche_1.png"
 				},
 				{
 					"text": "Don't rotate or opening the hip of the supporting leg. Leg must be straight behind you.",
-					"imageUrl": ""
+					"imageUrl": "./images/penche/dont_penche_2.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Beginner: Keep the leg lower and use the barre for balance.",
-					"imageUrl": ""
+					"imageUrl": "./images/penche/tips_penche_1.png"
 				},
 				{
 					"text": "Use resistance bands or partner support to safely increase your range.",
-					"imageUrl": ""
+					"imageUrl": "./images/penche/tips_penche_2.png"
 				}
 			]
 		},
@@ -1035,25 +1023,25 @@
 					"step": 1,
 					"title": "Stand in First",
 					"description": "Feet turned out, arms relaxed.",
-					"imageUrl": ""
+					"imageUrl": "./images/4posarms/ill_4posarms_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Raise One Arm",
 					"description": "Bring one arm overhead.",
-					"imageUrl": ""
+					"imageUrl": "./images/4posarms/ill_4posarms_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Extend Other Arm Sideways",
 					"description": "Round the arm softly to the side, maintaining shoulder alignment.",
-					"imageUrl": ""
+					"imageUrl": "./images/4posarms/ill_4posarms_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Lower Smoothly",
 					"description": "Return to preparation.",
-					"imageUrl": ""
+					"imageUrl": "./images/4posarms/ill_4posarms_4.png"
 				}
 			],
 
@@ -1062,22 +1050,22 @@
 			"donts": [
 				{
 					"text": "Don’t shrug shoulders.",
-					"imageUrl": ""
+					"imageUrl": "./images/4posarms/dont_4posarms_1.png"
 				},
 				{
 					"text": "Don’t bend elbows or wrists.",
-					"imageUrl": ""
+					"imageUrl": "./images/4posarms/dont_4posarms_2.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Visualize a straight line from fingertip to toes.",
-					"imageUrl": ""
+					"imageUrl": "./images/4posarms/tips_4posarms_1.png"
 				},
 				{
 					"text": "Move arms slowly for control.",
-					"imageUrl": ""
+					"imageUrl": "./images/4posarms/tips_4posarms_2.png"
 				}
 			]
 		},
@@ -1097,25 +1085,25 @@
 					"step": 1,
 					"title": "Stand in First Position",
 					"description": "Arms down, feet in first.",
-					"imageUrl": ""
+					"imageUrl": "./images/5posarms/ill_5posarms_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Raise Arms Overhead",
 					"description": "Form a soft, rounded oval shape with fingertips nearly touching.",
-					"imageUrl": ""
+					"imageUrl": "./images/5posarms/ill_5posarms_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Align Shoulders",
 					"description": "Keep shoulders down and elbows soft.",
-					"imageUrl": ""
+					"imageUrl": "./images/5posarms/ill_5posarms_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Lower Smoothly",
 					"description": "Return to preparation arms.",
-					"imageUrl": ""
+					"imageUrl": "./images/5posarms/ill_5posarms_4.png"
 				}
 			],
 
@@ -1124,22 +1112,22 @@
 			"donts": [
 				{
 					"text": "Don’t raise shoulders.",
-					"imageUrl": ""
+					"imageUrl": "./images/5posarms/dont_5posarms_1.png"
 				},
 				{
 					"text": "Don’t lock elbows.",
-					"imageUrl": ""
+					"imageUrl": "./images/5posarms/dont_5posarms_2.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Imagine holding a large balloon overhead.",
-					"imageUrl": ""
+					"imageUrl": "./images/5posarms/tips_5posarms_1.png"
 				},
 				{
 					"text": "Practice in front of a mirror to perfect symmetry.",
-					"imageUrl": ""
+					"imageUrl": "./images/5posarms/tips_5posarms_1.png"
 				}
 			]
 		},
@@ -1159,37 +1147,37 @@
 					"step": 1,
 					"title": "Start in Fifth Position",
 					"description": "Arms in preparatory or first position.",
-					"imageUrl": ""
+					"imageUrl": "./images/roy/ill_roy_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Demi-Plié",
 					"description": "Keep feet fully turned out and aligned.",
-					"imageUrl": ""
+					"imageUrl": "./images/roy/ill_roy_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Takeoff",
 					"description": "Push evenly from both legs, rising straight upward. Keep the front foot in front.",
-					"imageUrl": ""
+					"imageUrl": "./images/roy/ill_roy_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Beat in the Air",
 					"description": "Brush the front leg back as the back leg moves forward. Tighten turnout.",
-					"imageUrl": ""
+					"imageUrl": "./images/roy/ill_roy_4.png"
 				},
 				{
 					"step": 5,
 					"title": "Re-Form Fifth Position",
 					"description": "Bring legs back together quickly and precisely.",
-					"imageUrl": ""
+					"imageUrl": "./images/roy/ill_roy_5.png"
 				},
 				{
 					"step": 6,
 					"title": "Land Softly",
 					"description": "Return to a controlled fifth with a gentle plié.",
-					"imageUrl": ""
+					"imageUrl": "./images/roy/ill_roy_6.png"
 				}
 			],
 
@@ -1198,22 +1186,22 @@
 			"donts": [
 				{
 					"text": "Don’t let the knees knock or rotate inward.",
-					"imageUrl": ""
+					"imageUrl": "./images/roy/dont_roy_1.png"
 				},
 				{
 					"text": "Don’t jump forward — Royale goes straight up.",
-					"imageUrl": ""
+					"imageUrl": "./images/roy/dont_roy_2.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Think of “zipping up” your inner thighs.",
-					"imageUrl": ""
+					"imageUrl": "./images/roy/tips_roy_1.png"
 				},
 				{
 					"text": "Keep arms quiet to prevent wobbling.",
-					"imageUrl": ""
+					"imageUrl": "./images/roy/tips_roy_2.png"
 				}
 			]
 		},
@@ -1233,31 +1221,31 @@
 					"step": 1,
 					"title": "Start in Fifth Position",
 					"description": "Arms in fifth or first, weight centered.",
-					"imageUrl": ""
+					"imageUrl": "./images/soutour/ill_soutour_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Push Up into Relevé",
 					"description": "Engage core, rise fully on pointe.",
-					"imageUrl": ""
+					"imageUrl": "./images/soutour/ill_soutour_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Draw Feet Together",
 					"description": "Move feet tightly in fifth as you begin to rotate.",
-					"imageUrl": ""
+					"imageUrl": "./images/soutour/ill_soutour_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Turn Smoothly",
 					"description": "Keep torso lifted, eyes spotting as needed.",
-					"imageUrl": ""
+					"imageUrl": "./images/soutour/ill_soutour_4.png"
 				},
 				{
 					"step": 5,
 					"title": "Finish in Clean Fifth",
 					"description": "Land softly, ready for continuation.",
-					"imageUrl": ""
+					"imageUrl": "./images/soutour/ill_soutour_5.png"
 				}
 			],
 
@@ -1266,26 +1254,26 @@
 			"donts": [
 				{
 					"text": "Don’t let feet separate.",
-					"imageUrl": ""
+					"imageUrl": "./images/soutour/dont_soutour_1.png"
 				},
 				{
 					"text": "Don’t collapse arches.",
-					"imageUrl": ""
+					"imageUrl": "./images/soutour/dont_soutour_2.png"
 				},
 				{
 					"text": "Don’t forget to spot.",
-					"imageUrl": ""
+					"imageUrl": "./images/soutour/dont_soutour_3.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Focus on drawing feet together and engaging core.",
-					"imageUrl": ""
+					"imageUrl": "./images/soutour/tips_soutour_1.png"
 				},
 				{
 					"text": "Keep arms rounded and controlled.",
-					"imageUrl": ""
+					"imageUrl": "./images/soutour/tips_soutour_2.png"
 				}
 			]
 		},
@@ -1306,31 +1294,31 @@
 					"step": 1,
 					"title": "Start in Fifth Position",
 					"description": "Feet tight, heels lifted slightly, arms in first or fifth.",
-					"imageUrl": ""
+					"imageUrl": "./images/ssav/ill_ssav_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Engage Core and Ankles",
 					"description": "Prepare for forward travel.",
-					"imageUrl": ""
+					"imageUrl": "./images/ssav/ill_ssav_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Push Forward",
 					"description": "Roll slightly through the toe–ball–heel path as you move.",
-					"imageUrl": ""
+					"imageUrl": "./images/ssav/ill_ssav_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Maintain Tight Legs",
 					"description": "Keep feet crossed tightly in fifth on each step.",
-					"imageUrl": ""
+					"imageUrl": "./images/ssav/ill_ssav_4.png"
 				},
 				{
 					"step": 5,
 					"title": "Finish Smoothly",
 					"description": "End in clean fifth, ready for the next movement.",
-					"imageUrl": ""
+					"imageUrl": "./images/ssav/ill_ssav_5.png"
 				}
 			],
 
@@ -1339,30 +1327,30 @@
 			"donts": [
 				{
 					"text": "Don’t let the heels separate.",
-					"imageUrl": ""
+					"imageUrl": "./images/ssav/dont_ssav_1.png"
 				},
 				{
 					"text": "Don’t collapse the arches.",
-					"imageUrl": ""
+					"imageUrl": "./images/ssav/dont_ssav_2.png"
 				},
 				{
 					"text": "Don’t lean forward or backward.",
-					"imageUrl": ""
+					"imageUrl": "./images/ssav/dont_ssav_3.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Think of “drawing legs together” with each step.",
-					"imageUrl": ""
+					"imageUrl": "./images/ssav/tips_ssav_1.png"
 				},
 				{
 					"text": "Keep core lifted for stability.",
-					"imageUrl": ""
+					"imageUrl": "./images/ssav/tips_ssav_2.png"
 				},
 				{
 					"text": "Practice slow before increasing travel speed.",
-					"imageUrl": ""
+					"imageUrl": "./images/ssav/tips_ssav_3.png"
 				}
 			]
 		},
@@ -1382,31 +1370,31 @@
 					"step": 1,
 					"title": "Preparatory Step",
 					"description": "Take a long step forward or side to build momentum.",
-					"imageUrl": ""
+					"imageUrl": "./images/tourpiq/ill_tourpiq_1.png"
 				},
 				{
 					"step": 2,
 					"title": "Working Leg to Retiré or Arabesque",
 					"description": "Lift and place the working leg immediately in relevé.",
-					"imageUrl": ""
+					"imageUrl": "./images/tourpiq/ill_tourpiq_2.png"
 				},
 				{
 					"step": 3,
 					"title": "Arms to First or Fifth",
 					"description": "Bring arms in while spotting the turn.",
-					"imageUrl": ""
+					"imageUrl": "./images/tourpiq/ill_tourpiq_3.png"
 				},
 				{
 					"step": 4,
 					"title": "Rotate on High Relevé",
 					"description": "Turn cleanly over the supporting leg.",
-					"imageUrl": ""
+					"imageUrl": "./images/tourpiq/ill_tourpiq_4.png"
 				},
 				{
 					"step": 5,
 					"title": "Finish with Control",
 					"description": "Step out gracefully or end in fifth position.",
-					"imageUrl": ""
+					"imageUrl": "./images/tourpiq/ill_tourpiq_5.png"
 				}
 			],
 
@@ -1415,30 +1403,30 @@
 			"donts": [
 				{
 					"text": "Don’t bend the supporting leg.",
-					"imageUrl": ""
+					"imageUrl": "./images/tourpiq/dont_tourpiq_1.png"
 				},
 				{
 					"text": "Don’t delay lifting the working leg — place it instantly.",
-					"imageUrl": ""
+					"imageUrl": "./images/tourpiq/dont_tourpiq_2.png"
 				},
 				{
 					"text": "Don’t turn without spotting.",
-					"imageUrl": ""
+					"imageUrl": "./images/tourpiq/dont_tourpiq_3.png"
 				},
 				{
 					"text": "Don’t lean back — keep posture upright.",
-					"imageUrl": ""
+					"imageUrl": "./images/tourpiq/dont_tourpiq_4.png"
 				}
 			],
 
 			"tips": [
 				{
 					"text": "Think “onto the leg, not around it.”",
-					"imageUrl": ""
+					"imageUrl": "./images/tourpiq/tips_tourpiq_1.png"
 				},
 				{
 					"text": "Keep relevé extremely high for cleaner turns.",
-					"imageUrl": ""
+					"imageUrl": "./images/tourpiq/tips_tourpiq_2.png"
 				}
 			]
 		}
