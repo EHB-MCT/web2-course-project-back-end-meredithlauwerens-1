@@ -1,12 +1,15 @@
 import express from "express";
 import mongoose from "mongoose";
 import Exercise from "./models/exercise.js";
+import cors from "cors";
 
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
+app.use(cors());
+
 
 mongoose
   .connect(process.env.MONGODB_URI)
@@ -25,7 +28,7 @@ app.get("/", (req, res) => {
   res.json({ message: "Backend running with MongoDB" });
 });
 
-// get all exercises
+//get all exercises
 app.get("/exercises", async (req, res) => {
   const exercises = await Exercise.find();
   res.json(exercises);
