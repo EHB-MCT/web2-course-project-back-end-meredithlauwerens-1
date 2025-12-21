@@ -1,6 +1,8 @@
 import mongoose from "mongoose";
 import fs from "fs";
 import Exercise from "./models/exercise.js";
+import "dotenv/config";
+
 
 const raw = JSON.parse(
   fs.readFileSync("./exercises.json", "utf-8")
