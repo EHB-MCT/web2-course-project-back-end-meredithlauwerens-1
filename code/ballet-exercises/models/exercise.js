@@ -28,4 +28,4 @@ const exerciseSchema = new mongoose.Schema({
   tips: [textImageSchema]
 });
 
-export default mongoose.model("exercise", exerciseSchema);
+export default mongoose.model("Exercise", exerciseSchema);
