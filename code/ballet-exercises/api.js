@@ -1,5 +1,7 @@
 import express from "express";
 import mongoose from "mongoose";
+import Exercise from "./models/exercise.js";
+
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -21,5 +23,11 @@ mongoose
 
 app.get("/", (req, res) => {
   res.json({ message: "Backend running with MongoDB" });
+});
+
+// get all exercises
+app.get("/exercises", async (req, res) => {
+  const exercises = await Exercise.find();
+  res.json(exercises);
 });
 
