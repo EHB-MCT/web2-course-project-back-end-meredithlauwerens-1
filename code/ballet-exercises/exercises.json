@@ -38,7 +38,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/allonge.mp4",
 
 			"donts": [
 				{
@@ -104,7 +104,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/3rd_arabesque_arms.mp4",
 
 			"donts": [
 				{
@@ -166,7 +166,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/attitude_devant.mp4",
 
 			"donts": [
 				{
@@ -234,7 +234,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/attitude_turn.mp4",
 
 			"donts": [
 				{
@@ -320,7 +320,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/cabriole.mp4",
 
 			"donts": [
 				{
@@ -388,7 +388,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/develope.mp4",
 
 			"donts": [
 				{
@@ -456,7 +456,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/echappe.mp4",
 
 			"donts": [
 				{
@@ -532,7 +532,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/entrelace.mp4",
 
 			"donts": [
 				{
@@ -610,7 +610,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/flicflac.mp4",
 
 			"donts": [
 				{
@@ -688,7 +688,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/grand_jete.mp4",
 
 			"donts": [
 				{
@@ -760,7 +760,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/grand_rond_jambe.mp4",
 
 			"donts": [
 				{
@@ -834,7 +834,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/italian_fouette.mp4",
 
 			"donts": [
 				{
@@ -913,7 +913,7 @@
 					"imageUrl": "./images/pbsp/ill_pbsp_6.png"
 				}
 			],
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/pas_bourre_suivi.mp4",
 			"donts": [
 				{
 					"text": "Don’t let the heels separate — maintain tight fifth position.",
@@ -983,7 +983,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/penche.mp4",
 
 			"donts": [
 				{
@@ -1045,7 +1045,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/4th_position_arms.mp4",
 
 			"donts": [
 				{
@@ -1107,7 +1107,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/5th_position_arms.mp4",
 
 			"donts": [
 				{
@@ -1181,7 +1181,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/royale.mp4",
 
 			"donts": [
 				{
@@ -1249,7 +1249,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/soutenu_tournant.mp4",
 
 			"donts": [
 				{
@@ -1322,7 +1322,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/sous_sus_avant.mp4",
 
 			"donts": [
 				{
@@ -1398,7 +1398,7 @@
 				}
 			],
 
-			"tutorialVideo": "",
+			"tutorialVideo": "./videos/tour_pique.mp4",
 
 			"donts": [
 				{
