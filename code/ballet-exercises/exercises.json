@@ -3,6 +3,7 @@
 		{
 			"id": "1",
 			"title": "Allongé",
+			"mainImg": "./images/all/ill_all_3.png",
 			"category": "Arms",
 			"difficulty": 1,
 
@@ -69,6 +70,7 @@
 		{
 			"id": "2",
 			"title": "3rd Arabesque",
+			"mainImg": "./images/3ararms/ill_3ararms_2.png",
 			"category": "Arms",
 			"difficulty": 2,
 
@@ -131,6 +133,7 @@
 		{
 			"id": "3",
 			"title": "Attitude Devant",
+			"mainImg": "./images/attdev/mainimg_attdev.png",
 			"category": "Adagio",
 			"difficulty": 3,
 
@@ -193,6 +196,7 @@
 		{
 			"id": "4",
 			"title": "Attitude Turn",
+			"mainImg": "./images/attturn/tips_attturn_3.png",
 			"category": "Turns",
 			"difficulty": 4,
 
@@ -273,6 +277,7 @@
 		{
 			"id": "5",
 			"title": "Cabriole",
+			"mainImg": "./images/cab/ill_cab_4.png",
 			"category": "Jumps",
 			"difficulty": 5,
 
@@ -347,6 +352,7 @@
 		{
 			"id": "6",
 			"title": "Développé",
+			"mainImg": "./images/dev/ill_dev_4.png",
 			"category": "Adagio",
 			"difficulty": 3,
 
@@ -415,6 +421,7 @@
 		{
 			"id": "7",
 			"title": "Échappé to 2nd Position",
+			"mainImg": "./images/ech2pos/ill_ech2pos_3.png",
 			"category": "Pointes",
 			"difficulty": 3,
 
@@ -491,6 +498,7 @@
 		{
 			"id": "8",
 			"title": "Entrelacé",
+			"mainImg": "./images/entre/mainimg_entre.png",
 			"category": "Jumps",
 			"difficulty": 4,
 
@@ -563,6 +571,7 @@
 		{
 			"id": "9",
 			"title": "Flic Flac",
+			"mainImg": "./images/flic/tips_flic_1.png",
 			"category": "Turns",
 			"difficulty": 3,
 
@@ -641,6 +650,7 @@
 		{
 			"id": "10",
 			"title": "Grand Jeté",
+			"mainImg": "./images/grjete/ill_grjete_4.png",
 			"category": "Jumps",
 			"difficulty": 3,
 
@@ -719,6 +729,7 @@
 		{
 			"id": "11",
 			"title": "Grand Rond de Jambe",
+			"mainImg": "./images/grj/ill_grj_2.png",
 			"category": "Adagio",
 			"difficulty": 4,
 
@@ -787,6 +798,7 @@
 		{
 			"id": "12",
 			"title": "Italian Fouetté",
+			"mainImg": "./images/itfou/tips_itfou_1.png",
 			"category": "Turns",
 			"difficulty": 5,
 
@@ -869,6 +881,7 @@
 		{
 			"id": "13",
 			"title": "Pas de Bourré Suivi on Pointe",
+			"mainImg": "./images/pbsp/ill_pbsp_3.png",
 			"category": "Pointes",
 			"difficulty": 3,
 			"explanation": {
@@ -942,6 +955,7 @@
 		{
 			"id": "14",
 			"title": "Penché",
+			"mainImg": "./images/penche/ill_penche_4.png",
 			"category": "Adagio",
 			"difficulty": 4,
 
@@ -1010,6 +1024,7 @@
 		{
 			"id": "15",
 			"title": "4th Position Arms",
+			"mainImg": "./images/4posarms/ill_4posarms_3.png",
 			"category": "Arms",
 			"difficulty": 2,
 
@@ -1072,6 +1087,7 @@
 		{
 			"id": "16",
 			"title": "5th Position Arms",
+			"mainImg": "./images/5posarms/ill_5posarms_2.png",
 			"category": "Arms",
 			"difficulty": 1,
 
@@ -1134,6 +1150,7 @@
 		{
 			"id": "17",
 			"title": "Royale",
+			"mainImg": "./images/roy/mainimg_roy.png",
 			"category": "Jumps",
 			"difficulty": 3,
 
@@ -1208,6 +1225,7 @@
 		{
 			"id": "18",
 			"title": "Soutenu en Tournant",
+			"mainImg": "./images/soutour/ill_soutour_2.png",
 			"category": "Pointes",
 			"difficulty": 4,
 
@@ -1281,6 +1299,7 @@
 		{
 			"id": "19",
 			"title": "Sous-sus en Avant",
+			"mainImg": "./images/ssav/tips_ssav_3.png",
 			"category": "Pointes",
 			"difficulty": 2,
 
@@ -1357,6 +1376,7 @@
 		{
 			"id": "20",
 			"title": "Tour Piqué",
+			"mainImg": "./images/tourpiq/ill_tourpiq_2.png",
 			"category": "Turns",
 			"difficulty": 4,
 
