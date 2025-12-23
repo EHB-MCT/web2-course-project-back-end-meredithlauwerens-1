@@ -3,7 +3,9 @@ import mongoose from "mongoose";
 import Exercise from "./models/exercise.js";
 import cors from "cors";
 import path from "path";
+import dotenv from "dotenv";
 
+dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 3000;
