@@ -2,6 +2,7 @@ import express from "express";
 import mongoose from "mongoose";
 import Exercise from "./models/exercise.js";
 import cors from "cors";
+import path from "path";
 
 
 const app = express();
@@ -9,6 +10,8 @@ const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
 app.use(cors());
+
+app.use("/images", express.static(path.join(process.cwd(), "images")));
 
 
 mongoose
