@@ -4,7 +4,7 @@ import Exercise from "./models/exercise.js";
 import cors from "cors";
 import path from "path";
 import dotenv from "dotenv";
-import Favorite from "./models/Favorite.js";
+import Favorite from "./models/favorites.js";
 
 
 dotenv.config();
