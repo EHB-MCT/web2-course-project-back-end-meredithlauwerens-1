@@ -4,6 +4,8 @@ import Exercise from "./models/exercise.js";
 import cors from "cors";
 import path from "path";
 import dotenv from "dotenv";
+import Favorite from "./models/Favorite.js";
+
 
 dotenv.config();
 
@@ -58,6 +60,44 @@ app.get("/test", async (req, res) => {
 		res.status(500).json({ error: err.message });
 	}
 });
+
+app.get("/favorites", async (req, res) => {
+  try {
+    const favorites = await Favorite.find().populate("exercise");
+    res.json(favorites);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+app.post("/favorites", async (req, res) => {
+  try {
+    const { exerciseId } = req.body;
+
+    const favorite = new Favorite({ exercise: exerciseId });
+    await favorite.save();
+
+    res.status(201).json({ message: "Favorite saved" });
+  } catch (err) {
+    if (err.code === 11000) {
+      return res.status(400).json({ error: "Already favorited" });
+    }
+    res.status(500).json({ error: err.message });
+  }
+});
+
+app.delete("/favorites/:exerciseId", async (req, res) => {
+  try {
+    await Favorite.findOneAndDelete({
+      exercise: req.params.exerciseId
+    });
+
+    res.json({ message: "Favorite removed" });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 
 app.listen(PORT, () => {
 	console.log(`Server running on port http://localhost:${PORT}`);
